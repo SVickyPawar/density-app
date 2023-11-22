@@ -1,2 +1,2 @@
 [build]
-  base = "path/to/density/density-app"
+  base = "/density/density-app"
