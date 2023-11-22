@@ -3,7 +3,8 @@
  */
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://www.yourdomain.tld`,
+    title: `density-app`,
+    siteUrl: `https://www.yourdomain.tld`
   },
-  plugins: [],
-}
+  plugins: ["gatsby-plugin-netlify-cms", "gatsby-plugin-styled-components"]
+};
